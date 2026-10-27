@@ -1,0 +1,10 @@
+# Data (download separately, see README)
+Dataset/
+*.csv
+glove*.txt
+glove*.zip
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
